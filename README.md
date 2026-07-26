@@ -1,6 +1,6 @@
-# 🌌 Animated Parallax Website
+# 🌌 My First Website
 
-> My very first website — a multi-layered scroll-parallax landing page built from scratch with plain HTML, CSS and JavaScript. No frameworks, no libraries, no build step.
+> A multi-layered scroll-parallax landing page — the very first thing I ever built, from scratch, with plain HTML, CSS and JavaScript. No frameworks, no libraries, no build step.
 
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -9,7 +9,7 @@
   <img alt="No dependencies" src="https://img.shields.io/badge/dependencies-none-success?style=for-the-badge">
 </p>
 
-**🔗 Live demo:** https://icexchange22-prog.github.io/animated-parallax-website/
+**🔗 Live demo:** https://icexchange22-prog.github.io/my-first-website/
 
 ---
 
@@ -50,8 +50,8 @@ Plus a **circular scroll-progress button** in the bottom-right that fills up wit
 No install, no build — just clone and open:
 
 ```bash
-git clone https://github.com/icexchange22-prog/animated-parallax-website.git
-cd animated-parallax-website
+git clone https://github.com/icexchange22-prog/my-first-website.git
+cd my-first-website
 ```
 
 Then open `index.html` in your browser.
