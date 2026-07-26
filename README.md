@@ -11,6 +11,10 @@
 
 **🔗 Live demo:** https://icexchange22-prog.github.io/my-first-website/
 
+<p align="center">
+  <img src="screenshots/preview.gif" alt="Scrolling through the site — the city skyline, moon and train drift at different speeds, then the desert scene slides in" width="820">
+</p>
+
 ---
 
 ## ✨ What it does
